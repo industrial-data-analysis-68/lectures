@@ -35,9 +35,13 @@
 # 6. Setup VSCode for Python
 
 - Install VSCode extensions
-  - Python Extension Pack
+
+  - Python
+  - Python Environments
+  - Python Indent
   - Jupyter
   - Ruff
+
 - Go to VSCode setting
   - `python.venvPath` -> `~`
   - `editor.formatOnSave` -> ✔️
