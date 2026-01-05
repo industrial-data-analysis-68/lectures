@@ -3,6 +3,9 @@
 ## Resources
 
 - [Lecture VDO](#)
+- Python Installation
+  - [Windows](https://github.com/industrial-data-analysis-68/lectures/blob/main/src/T00_markdowns/windows.md)
+  - [MacOS](https://github.com/industrial-data-analysis-68/lectures/blob/main/src/T00_markdowns/mac.md)
 
 ## Introduction
 
