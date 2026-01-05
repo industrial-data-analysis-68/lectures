@@ -1,8 +1,8 @@
 # Lectures Topics
 
-## Lecture VDO Playlist
+## Resources
 
-- [Mobile App 68](https://www.youtube.com/playlist?list=PLNGLpHQhvGrtN8GnSV_Rb3wyOjQwk-VtJ)
+- [Lecture VDO](#)
 
 ## Introduction
 
