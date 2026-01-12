@@ -3,7 +3,7 @@
 ## 1. Install `brew`
 
 ```bash
-bash bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 - Copy the command printed after the installation. It should look like this
@@ -28,13 +28,15 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 - Activate the environment
   - `source ~/.venv/bin/activate`
 - Install packages
-  - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook`
+  - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook xlsxwriter`
 
 # VSCode
 
 - Install `VSCode`
 - Install VSCode extensions
-  - Python Extension Pack
+  - Python
+  - Python Environments
+  - Python Indent
   - Jupyter
   - Ruff
 - Go to VSCode setting
