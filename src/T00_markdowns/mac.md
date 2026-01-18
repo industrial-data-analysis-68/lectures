@@ -10,19 +10,19 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/in
 
 Check the location of `brew`
 
-- `eval $(/opt/homebrew/bin/brew shellenv)`
-  - If no error, use `echo ‘eval "$(/opt/homebrew/bin/brew)"’ >> $HOME/.zprofile`
+- `eval "$(/opt/homebrew/bin/brew shellenv)"`
+  - If no error, use `echo 'eval "$(/opt/homebrew/bin/brew)"' >> $HOME/.zprofile`
 
-- `eval "$(/usr/local/bin/brew shellenv)`
+- `eval "$(/usr/local/bin/brew shellenv)"`
   - If no error, use `echo 'eval "$(/usr/local/bin/brew)"' >> $HOME/.zprofile`
 
 Restart terminal and check `brew` command works.
 
-## 2. Install `uv`
+## 3. Install `uv`
 
 - `brew install uv`
 
-## 3. Install Python
+## 4. Install Python
 
 - `uv python install 3.12`
 - If you see permission error,
@@ -31,10 +31,10 @@ Restart terminal and check `brew` command works.
 If you see warning about PATH,
 
 ```
-echo 'export PATH=/YOUR/PATH/HERE"' >> ~/.zprofile
+echo 'export PATH="$PATH:/your/new/path"' >> ~/.zprofile
 ```
 
-## 4. Create a virtual environment
+## 5. Create a virtual environment
 
 - `uv venv --python 3.12`
 - Activate the environment
@@ -42,7 +42,7 @@ echo 'export PATH=/YOUR/PATH/HERE"' >> ~/.zprofile
 - Install packages
   - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook xlsxwriter`
 
-# VSCode
+## 6. VSCode
 
 - Install `VSCode`
   - `brew install --cask visual-studio-code`
@@ -56,7 +56,7 @@ echo 'export PATH=/YOUR/PATH/HERE"' >> ~/.zprofile
   - `python.venvPath` -> `~`
   - `editor.formatOnSave` -> ✔️
 
-# Run python file
+## 7. Run python file
 
 - Create `hello.py`
 
@@ -71,7 +71,7 @@ print(print(pd.__version__))
 - Run file from the play button.
 - (Optionally) select formatter
 
-# Run Jupyter notebook
+## 8. Run Jupyter notebook
 
 - Create `hello.ipynb`
 - Click `Select Kernel` at the top right.
