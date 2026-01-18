@@ -6,13 +6,17 @@
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-- Copy the command printed after the installation. It should look like this
+## 2. Add `brew` to your PATH
 
-```bash
-echo >> /Users/[Your User Name]/.zprofile
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/icemacbook/.zprofile
-eval "$(/opt/homebrew/bin/brew shellenv)"
-```
+Check the location of `brew`
+
+- `eval $(/opt/homebrew/bin/brew shellenv)`
+  - If no error, use `echo ‘eval "$(/opt/homebrew/bin/brew)"’ >> $HOME/.zprofile`
+
+- `eval "$(/usr/local/bin/brew shellenv)`
+  - If no error, use `echo 'eval "$(/usr/local/bin/brew)"' >> $HOME/.zprofile`
+
+Restart terminal and check `brew` command works.
 
 ## 2. Install `uv`
 
@@ -21,6 +25,12 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 ## 3. Install Python
 
 - `uv python install 3.12`
+
+If you see warning about PATH,
+
+```
+echo 'export PATH=/YOUR/PATH/HERE"' >> ~/.zprofile
+```
 
 ## 4. Create a virtual environment
 
@@ -33,6 +43,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 # VSCode
 
 - Install `VSCode`
+  - `brew install --cask visual-studio-code`
 - Install VSCode extensions
   - Python
   - Python Environments
