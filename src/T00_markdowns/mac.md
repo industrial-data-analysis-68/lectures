@@ -16,6 +16,8 @@ Check the location of `brew`
 - `eval "$(/usr/local/bin/brew shellenv)"`
   - If no error, use `echo 'eval "$(/usr/local/bin/brew)"' >> $HOME/.zprofile`
 
+Check by running `less $HOME/.zprofile` and confirm the line is added.
+
 Restart terminal and check `brew` command works.
 
 ## 3. Install `uv`
@@ -33,6 +35,10 @@ If you see warning about PATH,
 ```
 echo 'export PATH="$PATH:/your/new/path"' >> ~/.zprofile
 ```
+
+Check by running `less $HOME/.zprofile` and confirm the line is added.
+
+Restart terminal.
 
 ## 5. Create a virtual environment
 
