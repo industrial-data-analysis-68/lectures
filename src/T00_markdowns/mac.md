@@ -25,6 +25,8 @@ Restart terminal and check `brew` command works.
 ## 3. Install Python
 
 - `uv python install 3.12`
+- If you see permission error,
+  - `sudo uv python install 3.12`
 
 If you see warning about PATH,
 
