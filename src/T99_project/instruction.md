@@ -1,7 +1,7 @@
 # Data Analysis Project
 
 - 20% of final grade
-- Individual assignment
+- Individual assignment or group of 2
 - In-Class Presentation Date: 8th February 2025, 4:00 PM
   - 10 minutes presentation + 5 minutes Q&A
 - Deliverables:
