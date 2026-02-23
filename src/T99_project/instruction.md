@@ -2,12 +2,6 @@
 
 - 20% of final grade
 - Individual assignment or group of 2
-- In-Class Presentation Date: 8th February 2025, 4:00 PM
-  - 10 minutes presentation + 5 minutes Q&A
-- Deliverables:
-  - Original Dataset (CSV or Excel) if possible to share
-  - Jupyter Notebook or Python Script
-  - Presentation Slides (PDF)
 
 ## Project Guidelines
 
@@ -71,4 +65,11 @@ In your Canva presentation, make sure to cover the following points:
 ## Additional Notes
 
 - **All presentation and question will be in English.**
+- The presentation should take around 10 minutes presentation + 5 minutes Q&A.
 - Your presentation will be recorded and shared with the class for review and feedback.
+
+## Deliverables:
+
+- Original Dataset (CSV or Excel) if possible to share
+- Jupyter Notebook or Python Script
+- Presentation Slides (PDF)
