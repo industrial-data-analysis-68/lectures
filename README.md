@@ -38,3 +38,9 @@
 ## Project Assignment
 
 - [Details](https://github.com/industrial-data-analysis-68/lectures/blob/main/src/T99_project/instruction.md)
+- [Scheduling Link](https://calendly.com/nirand-p/255332)
+
+| Date              | Task                                  |
+| ----------------- | ------------------------------------- |
+| 23 Feb - 6 March  | Project Proposal (10% of final grade) |
+| 9 - 20 March 2026 | Project Presentation (at my office)   |

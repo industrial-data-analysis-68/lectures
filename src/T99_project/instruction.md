@@ -21,7 +21,38 @@
 4. **Dashboard Creation**:
    - Create a dashboard using Looker Studio to present your findings interactively.
 
-## Project Presentation
+## Grading Criteria
+
+| Topic                             | Percentage |
+| --------------------------------- | ---------- |
+| Proposal                          | 10%        |
+| Dataset Relevance and Quality     | 10%        |
+| Data Processing and Cleaning      | 20%        |
+| Analysis Depth and Insightfulness | 20%        |
+| Visualization Quality             | 20%        |
+| Dashboard Functionality           | 10%        |
+| Presentation Skills               | 10%        |
+| **Total**                         | **100%**   |
+
+## Timeline
+
+| Date              | Task                                  |
+| ----------------- | ------------------------------------- |
+| 23 Feb - 6 March  | Project Proposal (10% of final grade) |
+| 9 - 20 March 2026 | Project Presentation (at my office)   |
+
+## Guidelines for Proposal
+
+Talk to me about:
+
+- Dataset selection and relevance to the field of interest
+- What are processing steps you will take to clean and preprocess the data?
+- What kind of analysis do you plan to perform on the data?
+- What visualizations do you plan to create to illustrate key insights?
+
+## Guidelines for Presentation
+
+In your Canva presentation, make sure to cover the following points:
 
 - Motivation:
   - What inspired you to choose this dataset?
@@ -37,14 +68,7 @@
 - Dashboard Demonstration:
   - Walk through your Looker Studio dashboard, highlighting its features.
 
-## Grading Criteria
+## Additional Notes
 
-| Topic                             | Percentage |
-| --------------------------------- | ---------- |
-| Dataset Relevance and Quality     | 10%        |
-| Data Processing and Cleaning      | 20%        |
-| Analysis Depth and Insightfulness | 20%        |
-| Visualization Quality             | 20%        |
-| Dashboard Functionality           | 20%        |
-| Presentation Skills               | 10%        |
-| **Total**                         | **100%**   |
+- **All presentation and question will be in English.**
+- Your presentation will be recorded and shared with the class for review and feedback.
