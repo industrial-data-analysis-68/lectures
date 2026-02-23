@@ -44,6 +44,8 @@ Talk to me about:
 - What kind of analysis do you plan to perform on the data?
 - What visualizations do you plan to create to illustrate key insights?
 
+Also use this [Scheduling Link](https://calendly.com/nirand-p/255332) to book a time slot for your proposal discussion.
+
 ## Guidelines for Presentation
 
 In your Canva presentation, make sure to cover the following points:
@@ -64,7 +66,7 @@ In your Canva presentation, make sure to cover the following points:
 
 ## Additional Notes
 
-- **All presentation and question will be in English.**
+- **Proposal, presentation and question should be conducted in English.**
 - The presentation should take around 10 minutes presentation + 5 minutes Q&A.
 - Your presentation will be recorded and shared with the class for review and feedback.
 
