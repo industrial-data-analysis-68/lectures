@@ -3,6 +3,7 @@
 ## Resources
 
 - [Lecture VDO](https://youtube.com/playlist?list=PLNGLpHQhvGruwufWSF1dx0W91PrYOrrW9&si=1zF2tYY_R7rNuxia)
+- [Project VDO](https://www.youtube.com/playlist?list=PLNGLpHQhvGrsdL9MN3w8dPJFbv_Rwm4jw)
 - Python Installation
   - [Windows](https://github.com/industrial-data-analysis-68/lectures/blob/main/src/T00_markdowns/windows.md)
   - [MacOS](https://github.com/industrial-data-analysis-68/lectures/blob/main/src/T00_markdowns/mac.md)
